@@ -5,8 +5,8 @@ void main(){
 		a = 1+1;
 		b = 2+1;
 		a+=b;
-		system.out.printf("V1.0");
-		
+		a*=b;
+		system.out.printf("V1.1");
 	}
 
 
