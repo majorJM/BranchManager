@@ -6,7 +6,7 @@ void main(){
 		b = 2;
 		a+=b;
 		b+=a;
-		system.out.printf("V1.1");
+		system.out.printf("V1.0");
 		
 	}
 
