@@ -4,8 +4,10 @@ void main(){
 	while(1){
 		a = 1;
 		b = 2;
+		a+=b;
+		b+=a;
 		system.out.printf("V1.0");
-
+		
 	}
 
 
